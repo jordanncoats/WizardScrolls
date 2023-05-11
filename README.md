@@ -1,8 +1,8 @@
 # WizardScrolls
-A discordjs bot to assist with running Fantasy RPGs of the OSR flavor.
+Welcome to WizardScrolls, the DiscordJS Bot for OSR Fantasy RPGs. This bot is designed to assist game masters and players in running Old School Renaissance (OSR) style games such as Dungeon Crawl Classics (DCC) and Old School Essentials (OSE) via Discord.
 
-This is going to be an on-going project as I discover needs and wants when attempting to run OSR style games such as DCC and OSE through Discord.
+WizardScrolls is an ongoing project that aims to evolve and address the needs and requirements of OSR RPG players. Currently, the bot's primary functionality is generating rolls, and character sheets for DCC will be added in the next version.
 
-The first version of this bot only has the ability to generate rolls, the next planned feature will be character sheets for DCC.
+We are committed to providing a high-quality and reliable experience to all users of WizardScrolls. We welcome your feedback, bug reports, or feature requests, as they can help improve the bot's performance and utility.
 
-
+Thank you for choosing WizardScrolls, and we hope it enhances your OSR gaming experience on Discord.
